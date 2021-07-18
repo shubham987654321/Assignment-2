@@ -16,8 +16,8 @@ Hello Student, How are You?
     git commit -m "test-git-commands'
 
 5. Than open your Git Account and go to  in your
-   profile and  slect the option Repositry and than new Repositry.
-   after the We have to add Repositry name that
+   profile and  select the option Repositry and than new Repositry.
+   after that We have to add Repositry name that
    will be the same as  'folder-name'  of you computer.
    after creating the new Repositry  then go to your
    searh-box and copy the full path of your new Repositry.
